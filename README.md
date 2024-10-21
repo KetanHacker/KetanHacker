@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan Raj</h1>
 <h3 align="center">A passionate Data Science Enthusiastic, Backend and Db Developer</h3>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketanhacker" alt="ketanhacker" /></a> </p>
 
 - 🌱 I’m currently learning **RAG , Neural Nets, LLMs**
 
